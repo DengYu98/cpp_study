@@ -1,0 +1,6 @@
+D:/work/code/cppstudy/cppdemo1/cmake-build-debug/CMakeFiles/cppdemo1.dir
+D:/work/code/cppstudy/cppdemo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/work/code/cppstudy/cppdemo1/cmake-build-debug/CMakeFiles/cppdemo2.dir
+D:/work/code/cppstudy/cppdemo1/cmake-build-debug/CMakeFiles/cppdemo3.dir
+D:/work/code/cppstudy/cppdemo1/cmake-build-debug/CMakeFiles/cppdemo4.dir
+D:/work/code/cppstudy/cppdemo1/cmake-build-debug/CMakeFiles/edit_cache.dir
